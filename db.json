@@ -1,38 +1,10 @@
 [
-  {
-    "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
-    "url": "https://i.imgur.com/ggZUlRb.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  },
-  {
-    "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
-    "url": "https://i.imgur.com/n5zT7jg.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
-  },
-  {
-    "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
-    "url": "https://i.imgur.com/V3nRF8I.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
-  },
-  {
-    "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-    "url": "https://i.imgur.com/6WDvTVa.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
-  },
-  {
-    "id": 5,
-    "title": "natus nisi omnis corporis facere molestiae rerum in",
-    "url": "https://i.imgur.com/ssqVJxx.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
-  },
-  {
-    "id": 6,
-    "title": "accusamus ea aliquid et amet sequi nemo",
-    "url": "https://i.imgur.com/e6niUsI.jpg",
-    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
-  }
+    {
+      "id": 1,
+      "title": "Sample Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Sample Post 2"
+    }
   ]
