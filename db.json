@@ -2,11 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "Sample Post 1"
+      "Name": "Sample Post 1"
     },
     {
       "id": 2,
-      "title": "Sample Post 2"
+      "Name": "Sample Post 2"
     }
   ]
 }
